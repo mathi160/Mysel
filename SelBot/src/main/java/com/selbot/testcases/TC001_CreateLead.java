@@ -14,7 +14,7 @@ public class TC001_CreateLead extends Annotations{
 		testcaseDec = "Login, Create Lead and Verify";
 		author = "Sarath";
 		category = "smoke";
-		excelFileName = "TC001";
+		excelFileName = "TC0001";
 	} 
 
 	@Test(dataProvider="fetchData") 
